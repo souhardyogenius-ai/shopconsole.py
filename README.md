@@ -1,0 +1,1 @@
+# shopconsole.py
